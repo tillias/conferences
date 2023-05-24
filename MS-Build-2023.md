@@ -1,0 +1,202 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
+# Microsoft Build 2023
+
+## Keynotes
+
+- [Satya Nadella](https://build.microsoft.com/en-US/sessions/49e81029-20f0-485b-b641-73b7f9622656)
+  - OpenAI is a major shift, like cloud before
+    - We went from bicycle to seam machine 
+  - It is a great time to be a developer
+    - No mater how you define it :)
+    - The whole dev stack is changed
+      - Copilot is everywhere
+        - Security
+        - Workflow
+        - UX
+    - What we build is our focus
+      - Not how we build
+  - New generation of apps is coming
+  - Platforms shifts are in the air
+  - Copilot is coming into Windows
+    - Windows 11 :)
+    - Every user will be power user
+  - Azure AI Studio
+    - [Full lifecycle chain](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure)
+    - Built-in AI Safety features
+  - Microsoft Fabric
+    - All AI Apps start with data
+    - MF is Data Analytics in AI Era
+    - Biggest jump since introduction of SQL Server
+  - Why do we build technology?
+    - 20x boost in GDP
+    - AI technology boost will reach everyone on the planet
+    - Demo Product
+      - Train model for new language
+      - Use voice to search for legal documentation
+      - For those who don't know how to use PC
+- Yusuf Mehdi
+  - Plugins is a huge shift
+  - Bing and Copilot
+    - Open any page in Edge
+    - Bing understands context
+  - Word and Copilot
+    - Legal Contract, Californian Law
+      - Promt > help me understand liability
+      - Plugin Westlaw in action
+    - Summarize legal changes
+      - Big legal text
+      - Two versions
+      - Copilot makes simple table
+        - Easy to read
+        - Easy to understand
+        - Win-win
+  - Windows & Copilot
+    - Development
+      - Suggest me coding layout
+      - Give me some background music
+      - Turn the lights off :)
+        - Dark theme on
+    - Power users
+      - Drag & drop
+      - Summarize presentation
+      - ... or big document
+- [Kevin Scott, Greg Brockman](https://build.microsoft.com/en-US/sessions/bb8f9d99-0c47-404f-8212-a85fffd3a59d?)
+  - GPT-4 is a huge breakthrough
+  - You have to build great product
+  - Model itself is not a product
+    - Model is just an enabler
+  - UX Copilot
+    - UX hasn't changed since many years
+    - Promt engineering is here to change it
+    - You spend less time with buttons and controls
+    - And focus on business problem isntead
+  - Orchestration frameworks
+    - Every department builds its own orchestrator
+    - Copilot will change this
+  - Github & Copilot
+    - Ready to server
+    - Huge boost in productivity
+  - Software has eaten the world
+    - Now it is AI's turn
+  - Copilot demos
+    - Explain cryptics regexps
+    - Make code readable
+    - Fix the bugs in code :)
+    - Suggest improvements
+
+## My Backpack
+
+- Next generation AI for developers with the Microsoft Cloud
+  - Thomas Dohmke
+  - Scott Guthrie
+  - Sarah Bird
+  - Seth Juarez
+- State of the Art Data Retrieval with Machine Learning & Elasticsearch
+  - Nick Chow
+  - Brittany Roush
+  - Kim Brylle
+- Secure and observe your APIs no matter where they run
+  - Fernando Mejia
+- Inject the power of the cloud and AI into your development workflow
+  - Amanda Silver
+  - Shayne Boyer
+  - Isidor Nikolic
+  - Leslie Richardson
+- How to build next-gen AI services with NVIDIA AI on Azure Cloud
+  - Jon Coons
+  - Adel El Hallak
+  - Damian Hasak
+- Getting started with generative AI using Azure OpenAI Service
+  - Pablo Castro
+  - Dom Divakaruni
+- Cloud-native development with .NET 8
+  - Brady Gaster
+- GenAI for Knowledge: transform search of unstructured data with personality
+  - Simon Turner
+- Build, Customize, and Deploy LLMs At-Scale on Azure with NVIDIA NeMo
+  - Hugo Affaticati
+  - Nirmalya De
+- Open for AI: Secure paths to data collaboration, volume, and diversity
+  - Arun Gupta
+  - Graham Bury
+- What's new in .NET 8 for Web, frontends, backends, and futures?
+  - Jeremy Likness
+  - Daniel Roth
+- Develop in the cloud with Microsoft Dev Box
+  - Anthony Cangialosi
+  - Greg Denton
+- Building and scaling cloud-native, intelligent applications on Azure
+  - Brendan Burns
+  - Scott Hunter
+  - Mandy Whaley
+- Build and maintain your company Copilot with Azure ML and GPT-4
+  - Greg Buehrer
+  - Seth Juarez
+  - Daniel Schneider
+- State of GPT
+  - Andrej Karpathy
+- What’s new in C# 12 and beyond
+  - Dustin Campbell
+  - Mads Torgersen
+- UX: Designing for Copilot
+  - Kurtis Beavers
+  - Rachel Shepard
+- OpenFL (Federated Learning) Building better AI models with private data
+  - Michael McReynolds
+  - Brian Rogers
+  - Mansi Sharma
+- Get full-stack visibility into your Azure environment in minutes
+  - Ryan Handy
+- Shaping the future of work with AI
+  - Rajesh Jha
+  - Panos Panay
+  - Yina Arenas
+  - Steven Bathiche
+  - Cassie Breviu
+  - Pavan Davuluri
+  - Wamwitha Love
+  - Shilpa Ranganathan
+  - Archana Saseetharan
+- Seamlessly integrate security throughout your code to cloud workflow
+  - Brendan Burns
+  - Levent Besik
+  - Collin Davis
+  - David Trigano
+  - Rita Zhang
+- Modernizing your applications with containers and serverless​
+  - Anthony Chu
+  - Kamala Dasika
+  - T.C. Gubatayao
+  - Devanshi Joshi
+  - Jorge Palma
+- Advanced developer tips and tricks in Visual Studio
+  - Dante Gagne
+  - Jessie Houghton
+  - Mads Kristensen
+- Build Intelligent Apps with .NET and Azure
+  - David Pine
+  - Luis Quintanilla
+- Deep dive on Azure Load Testing in CI/CD
+  - Nikita Nallamothu
+  - Nagarjuna Vipparthi
+- Driving better outcomes through API first development
+  - Shawn Gaul
+  - Mark Weitzel
+- GraphQL: New services and tools for building API-driven apps
+  - Thomas Gauvin
+  - Adrian Hall
+  - Davide Mauri
+- Infrastructure as code in any programming language
+  - Josh Kodroff
+- The future of NuGet
+  - Alexandra Barry
+- Upgrade your .NET projects with Visual Studio
+  - Olia Gavrysh
+- What’s new with Azure Messaging
+  - Kevin Lam
+- e2e testing with Playwright
+  - Debbie O'Brien
