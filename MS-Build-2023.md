@@ -199,4 +199,78 @@ markmap:
 - What’s new with Azure Messaging
   - Kevin Lam
 - e2e testing with Playwright
-  - Debbie O'Brien
+
+# Day 2 Sort Out
+## Backpack
+- Accelerate your data potential with Microsoft Fabric
+  - Swetha Mannepalli
+- Better decision making with always up-to-date vector databases
+  - Justin Emrick
+  - Jason Montgomery
+- Build AI-assisted communication workflows for customer engagement
+  - Anuj Bhatia
+  - Ashwinder Bhatti
+- Build Intelligent Apps with .NET and Azure
+  - David Pine
+  - Luis Quintanilla
+- Cloud Security from Left-to-Right, Intelligent, Integrated, Automated
+  - Srija Reddy Allam
+  - Brent Martinez
+  - John McDonough
+- GraphQL: New services and tools for building API-driven apps
+  - Thomas Gauvin
+  - Adrian Hall
+  - Davide Mauri
+- Identity APIs in Microsoft Graph: Advanced Queries deep dive
+  - Luca Spolidoro
+- Infrastructure as code in any programming language
+  - Josh Kodroff
+- Level Up Your Cloud-native Security
+  - Matt Barrett
+  - David Glading
+- Microsoft and Aisera AI Co-Pilot Demo
+  - Muddu Sudhakar
+- Models to outcomes with end-to-end data science workflows in Microsoft Fabric
+  - Nellie Gustafsson
+- Modernize your data integration to enable petabyte scale analytics with Microsoft Fabric
+  - Shireen Bahadur
+  - Wee Hyong Tok
+- Modernize your Enterprise Data Warehouse & generate value from data with Microsoft Fabric
+  - Priya Sathy
+- No API Left Untested: Shift Left with API Security
+  - Ryan Bagnulo
+- Rapidly Build Distributed Applications using Orchestration
+  - Boney Sekh
+- Real Time analytics - Sense, analyze, generate insights with Microsoft Fabric
+  - Tzvia Gitlin
+  - James Hutton
+  - Kevin Lam
+- Transform productivity with AI experiences in Microsoft Fabric
+  - Arun Ulagaratchagan
+  - Patrick Baumgartner
+- Upgrade your .NET projects with Visual Studio
+  - Olia Gavrysh
+- What’s new with Azure Messaging
+  - Kevin Lam
+## Diskussions
+- Build and Maintain your Company Copilot with Azure ML and GPT-4, Q&A
+  - Greg Buehrer
+## Breakouts
+- Pragmatic techniques to get the most out of GitHub Copilot
+  - Burke Holland
+  - Allison Weins
+- Developer joy with Scott Hanselman and friends
+  - Kayla Cinnamon
+  - Scott Hanselman
+- Harness the power of AI: Extend Copilot and beyond
+  - Ayca Bas
+  - Gino Buzzelli
+  - Joey Glocke
+  - Steven Ickman
+  - Sukhmani Lamba
+- How GitHub builds GitHub with GitHub
+  - Brian Randell
+  - Martin Woodward
+- Inside Azure innovations with Mark Russinovich
+  - Mark Russinovich
+
