@@ -1,0 +1,5 @@
+**/*/tsp-output
+typespec/node_modules
+
+package*.json
+tspconfig.yaml

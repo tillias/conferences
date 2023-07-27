@@ -9,7 +9,7 @@ markmap:
 
 - [Satya Nadella](https://build.microsoft.com/en-US/sessions/49e81029-20f0-485b-b641-73b7f9622656)
   - OpenAI is a major shift, like cloud before
-    - We went from bicycle to seam machine 
+    - We went from bicycle to the steam machine 
   - It is a great time to be a developer
     - No mater how you define it :)
     - The whole dev stack is changed
@@ -38,7 +38,7 @@ markmap:
       - Train model for new language
       - Use voice to search for legal documentation
       - For those who don't know how to use PC
-- Yusuf Mehdi
+- [Yusuf Mehdi](https://build.microsoft.com/en-US/sessions/49e81029-20f0-485b-b641-73b7f9622656)
   - Plugins is a huge shift
   - Bing and Copilot
     - Open any page in Edge
@@ -184,8 +184,11 @@ markmap:
   - Nikita Nallamothu
   - Nagarjuna Vipparthi
 - Driving better outcomes through API first development
-  - Shawn Gaul
-  - Mark Weitzel
+  - Speakers
+    - Shawn Gaul
+    - Mark Weitzel
+  - Key Points
+    - 
 - GraphQL: New services and tools for building API-driven apps
   - Thomas Gauvin
   - Adrian Hall
